@@ -1,0 +1,19 @@
+.formcoll{
+    padding:25px !important;
+}
+
+h1,h2,h3{
+    text-align: center;
+    color:rgb(141, 55, 34);
+}
+.selcon{
+  
+    display:  block !important;
+    margin: 0 auto !important;
+    
+ }
+
+.map{
+    margin: 0 auto !important;
+    width: 50% !important;
+}
